@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "covid_analysis_project",
+            "database": "covid_analysis_project",
+            "username": "postgres"
+        }
+    ]
+}
